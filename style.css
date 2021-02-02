@@ -1,0 +1,55 @@
+body{
+    background-repeat: space;
+}
+
+
+#ih2{
+    font-weight:bold;
+    font-size: 45px;
+}
+
+#errorMsgps{
+    text-align: center;
+    font-style: italic;
+    display: none;
+}
+
+
+#errorMsg{
+    text-align: center;
+    font-style: italic;
+    display: none;
+}
+
+table{
+    border: 150px;
+    border: solid;
+    width: 300px;
+    height: 300px;
+    border-color: green;
+    margin: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+.i1{
+ border-color: green;
+color: black; 
+}
+#i1{
+    border: solid;
+    border-color: rgb(45, 137, 153);
+    background-color:rgb(61, 213, 233)
+}
+
+/* #i2{
+    animation: img 5s linear infinite;
+}
+@keyframes img {
+    0%   { left:0px; top:0px;}
+    25%  {left:300px; top:0px;}
+    50%  {left:200px; top:200px;}
+    75%  {left:0px; top:200px;}
+    100% {left:0px; top:0px;}
+    0%{transform:rotate(0deg); }
+100%{transform: rotate(360deg);}
+  } */
